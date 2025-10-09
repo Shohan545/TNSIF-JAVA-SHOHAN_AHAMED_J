@@ -2,7 +2,7 @@
 package oops_encapsulation;
 
 public class OopsConceptDemo {
-	// Var declaration / Data members
+	//  Var declaration / Data members
 	private int serialNum; // int, string, boolean, float = Primitive Data types
 	private String name; // private , public, protected and default = Access modifiers / specifiers
 	private int age;
